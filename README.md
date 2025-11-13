@@ -25,7 +25,7 @@ Driving the future of skill-based economies at *Synq*. Building platforms where 
 
 <a href="https://github.com/OnyedikachiJohnChita">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OnyedikachiJohnChita&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnyedikachiJohnChita&theme=radical&hide_border=true&layout=compact&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnyedikachiJohnChita&theme=radical&hide_border=true&layout=compact&exclude_repo=OnyedikachiJohnChita" />
 </a>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=OnyedikachiJohnChita&theme=radical&hide_border=true)](https://git.io/streak-stats)
@@ -72,7 +72,6 @@ Revolutionizing education through a skill-based economy. Built with:
 ---
 
 > "First, solve the problem. Then, write the code." - John Chita
-
 <!--
 **OnyedikachiJohnChita/OnyedikachiJohnChita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
