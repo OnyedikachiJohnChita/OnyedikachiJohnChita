@@ -71,7 +71,7 @@ Revolutionizing education through a skill-based economy. Built with:
 
 ---
 
-> "First, solve the problem. Then, write the code." - John Johnson
+> "First, solve the problem. Then, write the code." - John Chita
 
 <!--
 **OnyedikachiJohnChita/OnyedikachiJohnChita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
