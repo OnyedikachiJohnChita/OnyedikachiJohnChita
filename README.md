@@ -1,4 +1,12 @@
-## Hi there 👋
+# Onyedikachi Chita
+*Technical Founder & CEO*
+
+Building Synq - a skill trading platform where knowledge becomes currency.
+
+## 🌐 Connect
+[LinkedIn](https://linkedin.com/in/onyedikachichita) • 
+[Twitter](https://twitter.com/onyedikachi_john1) • 
+[Website](https://chitajohn.me)
 
 <!--
 **OnyedikachiJohnChita/OnyedikachiJohnChita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
