@@ -3,7 +3,7 @@
 
 Driving the future of skill-based economies at *Synq*. Building platforms where knowledge becomes currency through innovative technology and scalable architecture.
 
-## 🚀 Core Expertise
+## Core Expertise
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
@@ -111,7 +111,7 @@ Revolutionizing education through a skill-based economy. Built with:
 - Secure transaction systems for Skill Coin
 - Database optimization for user matching
 
-## 🏗️ Technical Leadership
+## Technical Leadership
 
 **Architecture & Scale**
 - Microservices design & implementation
@@ -125,7 +125,7 @@ Revolutionizing education through a skill-based economy. Built with:
 - Code review & quality assurance
 - Technical debt management
 
-## 📝 Technical Writing
+## Technical Writing
 
 - **[Building Scalable Real-Time Systems](https://chitajohn.me/blog/scalable-realtime)**
 - **[Architecting Skill-Based Economies](https://chitajohn.me/blog/skill-economies)**
