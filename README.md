@@ -47,7 +47,7 @@ I explore ideas on product, startups, and peer-to-peer learning.
 ---
 
 ## 🌐 Connect With Me  
-[LinkedIn](https://linkedin.com/in/onyedikachichita)  
+[LinkedIn](https://www.linkedin.com/in/onyedikachi-john-chita-chita-209153399/)  
 [Twitter](https://twitter.com/onyedikachi_john1)  
 [Email](mailto:chitajohn22@gmail.com)
 
